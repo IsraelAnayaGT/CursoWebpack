@@ -49,6 +49,8 @@
     "webpack-cli": "^4.7.2"
   },
   "dependencies": {
+    "bash": "^0.0.1",
+    "git": "^0.1.5",
     "loader": "^2.1.1"
   }
 }
